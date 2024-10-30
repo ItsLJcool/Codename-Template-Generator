@@ -41,6 +41,7 @@ const FoldersToCreate = [
     { name: "fonts" },
     { name: "shaders" },
     { name: "videos", },
+    { name: "ndlls" },
 ];
 function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
